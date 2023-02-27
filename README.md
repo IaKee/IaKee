@@ -4,6 +4,8 @@ My toolbelt includes a diverse range of programming languages such as Assembly, 
 
 I really enjoy working on projects that are game-oriented and bring a fun and humorous twist to problem-solving. I'm always up for a challenge, and my projects are known for being both versatile and detail-oriented. Looking forward to collaborating with all of you on some truly innovative projects!
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iakee&show_icons=true&locale=en&layout=compact" alt="iakee" /></p>
+
 <!--
 **IaKee/IaKee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
