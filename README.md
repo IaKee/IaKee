@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey there, fellow coders! I'm a computer engineering student at UFRGS, currently in my sixth semester, with a knack for solving complex problems using creative and adaptable solutions. 
+
+My toolbelt includes a diverse range of programming languages such as Assembly, C, C++, Java, Python, and VHDL, but I'm particularly passionate about crafting slick interfaces using Tkinter and TCL. 
+
+I really enjoy working on projects that are game-oriented and bring a fun and humorous twist to problem-solving. I'm always up for a challenge, and my projects are known for being both versatile and detail-oriented. Looking forward to collaborating with all of you on some truly innovative projects!
 
 <!--
 **IaKee/IaKee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
